@@ -9,6 +9,14 @@ Swipr is an innovative clothing recommendation app that utilizes advanced AI tec
   </tr>
 </table>
 
+## Creating an Account
+<table>
+  <tr>
+    <td><img width="788" alt="Screen Shot 2024-05-19 at 10 07 44 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/d441b09a-4a02-4e63-bf57-0a1885e3fc27"></td>
+    <td><img width="791" alt="Screen Shot 2024-05-19 at 10 08 11 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/c1e75a09-5254-45d6-a1dd-6065b6d32219"></td>
+  </tr>
+</table>
+
 ## Main Page and Filter Selection
 <table>
   <tr>
@@ -31,9 +39,21 @@ Swipr is an innovative clothing recommendation app that utilizes advanced AI tec
   <tr>
     <td><img width="796" alt="Screen Shot 2024-05-19 at 10 00 56 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/5625e08f-eef9-4403-ad42-0f2bd60ec547"></td>
     <td>
-<img width="794" alt="Screen Shot 2024-05-19 at 10 01 13 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/c6c552d9-722f-4779-b98d-fc6eef371eaf">/td>
+<img width="794" alt="Screen Shot 2024-05-19 at 10 01 13 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/c6c552d9-722f-4779-b98d-fc6eef371eaf"></td>
   </tr>
 </table>
+
+## Admin Page
+<table>
+  <tr>
+    <td><img width="794" alt="Screen Shot 2024-05-19 at 10 09 08 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/1fef7bdd-2f30-4d8c-a993-a518caf35354"></td>
+    <td>
+<img width="795" alt="Screen Shot 2024-05-19 at 10 09 28 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/77e41127-5d70-439a-a164-e48228a8d243"></td>
+  </tr>
+</table>
+
+
+
 
 
 
