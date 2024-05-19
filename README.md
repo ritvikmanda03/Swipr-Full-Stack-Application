@@ -34,7 +34,7 @@ Swipr is an innovative clothing recommendation app that utilizes advanced AI tec
   </tr>
 </table>
 
-# Filtering Reviews 
+## Filtering Reviews 
 <table>
   <tr>
     <td><img width="796" alt="Screen Shot 2024-05-19 at 10 00 56 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/5625e08f-eef9-4403-ad42-0f2bd60ec547"></td>
