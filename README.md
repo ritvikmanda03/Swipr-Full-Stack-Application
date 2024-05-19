@@ -1,9 +1,7 @@
-# Team092-AliExpressNoAlawiniExpress
-
 ## Project Summary:
 Swipr is an innovative clothing recommendation app that utilizes advanced AI technology for skin tone and tint analysis to offer personalized style suggestions. Swipr integrates the principles of color theory into the everyday shopping experience to empower users to enhance their wardrobes while highlighting their natural beauty. The app begins by having users upload a picture of their face and uses AI to extract their skin tone from the image. Then, it uses our custom algorithm to curate a tailored selection of clothing options from a comprehensive database that spans multiple clothing brands. Users then engage in a swiping process to show which items they like, refining their recommendations. In the future, Swipr's recommendation algorithm will learn from user feedback, continuously optimizing the suggestions. With the added features of custom lists and account customization, Swipr transforms the way individuals approach fashion, making high fashion accessible to everyone through the convenience of their smartphones.
 
-## Logging In
+## Welcome Page and Logging In
 <table>
   <tr>
     <td><img width="796" alt="Screen Shot 2024-05-19 at 9 51 30 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/b8d3620a-5a9b-49a3-a885-0dd900eeaadb"></td>
@@ -15,9 +13,33 @@ Swipr is an innovative clothing recommendation app that utilizes advanced AI tec
 <table>
   <tr>
     <td><img width="796" alt="Screen Shot 2024-05-19 at 9 55 03 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/fd70336a-abf7-41b0-936f-f8d722d16881"></td>
+    <td><img width="793" alt="Screen Shot 2024-05-19 at 9 57 44 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/19d48cc6-b069-433d-8040-b5272fd012da"></td>
     <td><img width="796" alt="Screen Shot 2024-05-19 at 9 55 37 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/8ab31531-271f-45eb-a687-5a8bf84f5dfa"></td>
   </tr>
 </table>
+
+## Profile Settings and Likes/Dislikes Bins
+<table>
+  <tr>
+    <td><img width="794" alt="Screen Shot 2024-05-19 at 9 58 53 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/3d0b4068-5858-44c6-957d-f02e4a5785c8"></td>
+    <td><img width="794" alt="Screen Shot 2024-05-19 at 9 59 29 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/4340866d-f03b-44cd-91fc-eb308f975f9f"></td>
+  </tr>
+</table>
+
+# Filtering Reviews 
+<table>
+  <tr>
+    <td><img width="796" alt="Screen Shot 2024-05-19 at 10 00 56 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/5625e08f-eef9-4403-ad42-0f2bd60ec547"></td>
+    <td>
+<img width="794" alt="Screen Shot 2024-05-19 at 10 01 13 PM" src="https://github.com/ritvikmanda03/Swipr-Full-Stack-Application/assets/154103220/c6c552d9-722f-4779-b98d-fc6eef371eaf">/td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
